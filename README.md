@@ -3,3 +3,18 @@
 more managing of files, renaming files, 
   traditional way, local version, edit file and upload to git hub
     now can work on websit
+markdown, (mark up language), where you give computer instructions and renders as a pretty document, XML, HTML, Laytech, Markdown(.md)
+# sign gives you a section 
+## subsection
+### subsubsection(
+
+1. ordered lis
+2. ordered list continued
+
+* bullet list
+* bullet list coninued
+
+  **Bold**
+  *Italic*
+
+  in collab in google and jupiter lab extension for VS code , table of contents
